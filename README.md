@@ -31,7 +31,7 @@ To run the site on your local machine
 1. Download or clone the repository onto your machine.
 2. Extract the .zip file.
 3. Open .html file in your browser.
-5. Alternatively you can click on the following [Site Link](https://jsoto3000.github.io/js-Drum-Kit-master/ "Site Link") to view.
+5. Alternatively you can click on the following [Site Link](https://shre-yah.github.io/drum-kit-js/) to view.
 
 _Made from Angela Yu's video. With all audio resources attached._
 
